@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BOOTCAMP-Fullstack xp inc/1.0.0": {
+        "runtime": {
+          "BOOTCAMP-Fullstack xp inc.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BOOTCAMP-Fullstack xp inc/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

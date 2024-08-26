@@ -1,0 +1,15 @@
+C:\Users\sheil\OneDrive\Documentos\GitHub\BOOTCAMP-Fullstack xp inc\bin\Debug\net8.0\BOOTCAMP-Fullstack xp inc.exe
+C:\Users\sheil\OneDrive\Documentos\GitHub\BOOTCAMP-Fullstack xp inc\bin\Debug\net8.0\BOOTCAMP-Fullstack xp inc.deps.json
+C:\Users\sheil\OneDrive\Documentos\GitHub\BOOTCAMP-Fullstack xp inc\bin\Debug\net8.0\BOOTCAMP-Fullstack xp inc.runtimeconfig.json
+C:\Users\sheil\OneDrive\Documentos\GitHub\BOOTCAMP-Fullstack xp inc\bin\Debug\net8.0\BOOTCAMP-Fullstack xp inc.dll
+C:\Users\sheil\OneDrive\Documentos\GitHub\BOOTCAMP-Fullstack xp inc\bin\Debug\net8.0\BOOTCAMP-Fullstack xp inc.pdb
+C:\Users\sheil\OneDrive\Documentos\GitHub\BOOTCAMP-Fullstack xp inc\obj\Debug\net8.0\BOOTCAMP-Fullstack xp inc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sheil\OneDrive\Documentos\GitHub\BOOTCAMP-Fullstack xp inc\obj\Debug\net8.0\BOOTCAMP-Fullstack xp inc.AssemblyInfoInputs.cache
+C:\Users\sheil\OneDrive\Documentos\GitHub\BOOTCAMP-Fullstack xp inc\obj\Debug\net8.0\BOOTCAMP-Fullstack xp inc.AssemblyInfo.cs
+C:\Users\sheil\OneDrive\Documentos\GitHub\BOOTCAMP-Fullstack xp inc\obj\Debug\net8.0\BOOTCAMP-Fullstack xp inc.csproj.CoreCompileInputs.cache
+C:\Users\sheil\OneDrive\Documentos\GitHub\BOOTCAMP-Fullstack xp inc\obj\Debug\net8.0\BOOTCAMP-Fullstack xp inc.sourcelink.json
+C:\Users\sheil\OneDrive\Documentos\GitHub\BOOTCAMP-Fullstack xp inc\obj\Debug\net8.0\BOOTCAMP-Fullstack xp inc.dll
+C:\Users\sheil\OneDrive\Documentos\GitHub\BOOTCAMP-Fullstack xp inc\obj\Debug\net8.0\refint\BOOTCAMP-Fullstack xp inc.dll
+C:\Users\sheil\OneDrive\Documentos\GitHub\BOOTCAMP-Fullstack xp inc\obj\Debug\net8.0\BOOTCAMP-Fullstack xp inc.pdb
+C:\Users\sheil\OneDrive\Documentos\GitHub\BOOTCAMP-Fullstack xp inc\obj\Debug\net8.0\BOOTCAMP-Fullstack xp inc.genruntimeconfig.cache
+C:\Users\sheil\OneDrive\Documentos\GitHub\BOOTCAMP-Fullstack xp inc\obj\Debug\net8.0\ref\BOOTCAMP-Fullstack xp inc.dll
